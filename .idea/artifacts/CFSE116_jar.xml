@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CFSE116:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="CFSE116.jar">
+      <element id="module-output" name="CFSE116" />
+    </root>
+  </artifact>
+</component>
